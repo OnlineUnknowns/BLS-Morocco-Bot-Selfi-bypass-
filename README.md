@@ -2,7 +2,7 @@
 ### 🔹 Smart Automated Visa Booking System for BLS Morocco  
 > Fully automated visa appointment booking system built using **Python**, **Selenium**, and **TeleBot** — engineered for accuracy, speed, and stealth automation.
 
----
+--
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge)
