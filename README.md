@@ -1,3 +1,19 @@
+# 🚀 Morocco BLS Appointment Bot
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Morocco+BLS+Automation+Bot;Smart+Appointment+Booking+System;Fast+Reliable+Scalable+Automation" />
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/OnlineUnknowns/Morocco-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/OnlineUnknowns/Morocco-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/OnlineUnknowns/Morocco-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+
+
 #  BLS Morocco Appointment Bot  
 ### 🔹 Smart Automated Visa Booking System for BLS Morocco  
 > Fully automated visa appointment booking system built using **Python**, **Selenium**, and **TeleBot** — engineered for accuracy, speed, and stealth automation.
