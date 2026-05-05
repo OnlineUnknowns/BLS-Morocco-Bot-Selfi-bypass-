@@ -135,7 +135,7 @@ Telegram-->>User: Appointment Booked
 ## 💻 Quick Setup
 
 ```bash
-git clone https://github.com/YanaYaanto/BLS_Morocco_Appointment_Bot.git
+git clone https://github.com/OnlineUnknowns/BLS_Morocco_Appointment_Bot.git
 
 cd BLS_Morocco_Appointment_Bot
 
@@ -248,7 +248,7 @@ Each module works independently — ensuring the system remains modular, stable,
 ## 💻 Quick Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YanaYaanto/BLS_Morocco_Appointment_Bot.git
+   git clone https://github.com/OnlineUnknowns/BLS_Morocco_Appointment_Bot.git
    cd BLS_Morocco_Appointment_Bot
 
 2. Edit config.py or Appointment_Bot.py to set:
