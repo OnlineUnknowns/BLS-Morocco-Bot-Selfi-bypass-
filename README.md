@@ -1,7 +1,202 @@
 #  BLS Morocco Appointment Bot  
 ### 🔹 Smart Automated Visa Booking System for BLS Morocco  
 > Fully automated visa appointment booking system built using **Python**, **Selenium**, and **TeleBot** — engineered for accuracy, speed, and stealth automation.
+# 🎯 BLS Morocco Appointment Bot
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Smart+Automated+Visa+Booking+System;Fast+%7C+Accurate+%7C+Stealth+Automation;Python+%7C+Selenium+%7C+TeleBot;Real-Time+Appointment+Monitoring" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=header&text=BLS%20Morocco%20Bot&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge)
+![TeleBot](https://img.shields.io/badge/Telegram-Bot-blueviolet?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-BLS%20Morocco-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧠 Overview
+
+**BLS Morocco Appointment Bot** is an intelligent automation system for monitoring and booking visa appointments automatically.
+
+Built with **Python**, **Selenium**, and **TeleBot** to provide:
+
+- Real-time slot detection
+- Instant booking execution
+- Telegram notifications
+- Human-like browser automation
+
+---
+
+# 📸 Booking Process Visualization 
+
+## 1️⃣ Login Stage
+
+```mermaid
+flowchart LR
+A[Open BLS Website] --> B[Enter Email]
+B --> C[Enter Password]
+C --> D[Login Success]
+```
+
+---
+
+## 2️⃣ Slot Scanning
+
+```mermaid
+flowchart TD
+A[Calendar Load] --> B[Scan Dates]
+B --> C{Slot Found?}
+C -->|No| D[Refresh & Retry]
+C -->|Yes| E[Select Slot]
+```
+
+---
+
+## 3️⃣ Auto Booking
+
+```mermaid
+flowchart TD
+A[Fill Appointment Form] --> B[Confirm Data]
+B --> C[Submit Booking]
+C --> D[Reservation Success]
+```
+
+---
+
+## 4️⃣ Telegram Notification
+
+```mermaid
+flowchart LR
+A[Booking Completed] --> B[Generate Alert]
+B --> C[Send Telegram Message]
+C --> D[User Receives Confirmation]
+```
+
+---
+
+## ⚙️ Key Features
+
+✅ Real-Time Slot Monitoring  
+✅ Auto Booking Logic  
+✅ Smart Retry System  
+✅ Telegram Notifications  
+✅ Human Behavior Simulation  
+✅ Anti-Detection Delays  
+✅ Session Persistence  
+✅ Fast Execution Engine  
+
+---
+
+## 🏗 System Architecture
+
+```mermaid
+graph TD
+A[Selenium Engine] --> B[Slot Scanner]
+A --> C[Form Automation]
+B --> D[Booking Core]
+C --> D
+D --> E[TeleBot Alerts]
+D --> F[Logger]
+D --> G[Session Manager]
+```
+
+---
+
+## 🔍 Full Workflow
+
+```mermaid
+sequenceDiagram
+participant User
+participant Bot
+participant BLS
+participant Telegram
+
+User->>Bot: Start Bot
+Bot->>BLS: Login
+Bot->>BLS: Scan Calendar
+BLS-->>Bot: Available Slot
+Bot->>BLS: Book Slot
+Bot->>Telegram: Send Confirmation
+Telegram-->>User: Appointment Booked
+```
+
+---
+
+## 💻 Quick Setup
+
+```bash
+git clone https://github.com/YanaYaanto/BLS_Morocco_Appointment_Bot.git
+
+cd BLS_Morocco_Appointment_Bot
+
+pip install -r requirements.txt
+
+python Appointment_Bot.py
+```
+
+---
+
+## 🔧 Configuration
+
+Edit:
+
+```python
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+EMAIL = "YOUR_BLS_EMAIL"
+PASSWORD = "YOUR_BLS_PASSWORD"
+```
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Core Programming |
+| Selenium | Browser Automation |
+| TeleBot | Notifications |
+| Requests | HTTP Handling |
+| Logging | Debugging |
+| Undetected ChromeDriver | Anti Detection |
+
+---
+
+## 📊 Live Status
+
+```diff
++ Bot Running
++ Monitoring Slots
++ Waiting for Availability
++ Ready to Book
+```
+
+---
+
+## 📘 Disclaimer
+
+This project is for educational and research purposes only.
+
+Use responsibly and respect official BLS platform rules.
+
+---
+
+<div align="center">
+
+## ⭐ Star the Repository if you like it
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DFD8,100:007CF0&height=100&section=footer"/>
+
+</div>
 --
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
