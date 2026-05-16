@@ -1,4 +1,24 @@
+#  BLS Morocco Appointment Bot  
+### 🔹 Smart Automated Visa Booking System for BLS Morocco  
+> Fully automated visa appointment booking system built using **Python**, **Selenium**, and **TeleBot** — engineered for accuracy, speed, and stealth automation.
+# 🎯 BLS Morocco Appointment Bot
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Smart+Automated+Visa+Booking+System;Fast+%7C+Accurate+%7C+Stealth+Automation;Python+%7C+Selenium+%7C+TeleBot;Real-Time+Appointment+Monitoring" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=header&text=BLS%20Morocco%20Bot&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge)
+![TeleBot](https://img.shields.io/badge/Telegram-Bot-blueviolet?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-BLS%20Morocco-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)
 ## 🧠 Overview
 
 **BLS Morocco Appointment Bot** is an intelligent automation system for monitoring and booking visa appointments automatically.
